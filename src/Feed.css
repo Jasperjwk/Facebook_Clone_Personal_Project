@@ -1,0 +1,10 @@
+.feed{
+    /* It  should try and take up as much room as it possibly can*/
+    flex: 1;
+    /* 30px is top and bottom, 150 on left and right */
+    padding: 30px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

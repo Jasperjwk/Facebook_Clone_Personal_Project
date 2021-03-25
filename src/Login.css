@@ -1,0 +1,29 @@
+.login {
+    /* grid is a neat trick to getting anything centered in vertically and horizontally*/
+    display: grid;
+    place-items: center;
+    /* view high to get this really nice centering */
+    height: 100vh;
+}
+
+.login > button {
+    width: 300px;
+    background-color: #2e81f4;
+    color: #eff2f5;
+    font-weight: 800;
+}
+
+.login > button:hover{
+    background-color: white;
+    color: #2e81f4;
+}
+
+.login > div > img {
+    object-fit: contain;
+    height: 150px;
+}
+
+.login__logo {
+    display: flex;
+    flex-direction: column;
+}
