@@ -85,7 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # My personal notes in developing this facebook clone project:
-Make use of Widgets.js from facebook clone app
+## Make use of Widgets.js from facebook clone app
 
 The reason why we delete some files is because we don't actually want anything on our build initially
 we want like a clean canvas. Image you're about to paint something, you don't want anything on your
@@ -94,7 +94,7 @@ canvas. You want it to be completely clean. That's why we go ahead and delete th
 firebase.js file - we are going to be needing this file and this config file to actually go ahead and
 set everything up later on.
 
-Is it safe to put your firebase config in the frontend?
+## Is it safe to put your firebase config in the frontend?
 
 It is completely safe to do it as firebase has some protective security measures in place
 
@@ -120,7 +120,7 @@ Angular is a framework and React is a library. React is much easier to learn as 
 . It's also very performant and it's very fast. Your entry to get into the career is much easier than
 angular and the job market is higher right now in react and the overall salary is higher in react.
 
-Do i need to make html-css skills super
+## Do i need to make html-css skills super
 When i started learning react, my css skills sucked but i focused learning react and sort of the 
 fundamentals behind it that's going to be a lot more important. Follow all these builds and my css
 will naturally get better through pattern recognition. 
