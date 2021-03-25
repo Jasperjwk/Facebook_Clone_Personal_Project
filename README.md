@@ -1,4 +1,4 @@
-TECH used in Facebook Clone Personal Project build
+# TECH used in Facebook Clone Personal Project build
 
 1) React + React Hooks
 2) React context API --> REDUX pattern
@@ -84,7 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-My personal notes in developing this facebook clone project:
+# My personal notes in developing this facebook clone project:
 Make use of Widgets.js from facebook clone app
 
 The reason why we delete some files is because we don't actually want anything on our build initially
