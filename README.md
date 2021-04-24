@@ -2,12 +2,13 @@
 
 1) React + React Hooks
 2) React context API --> REDUX pattern
-3) Material UI
-4) Flexbox
-5) Firebase's Firestore realtime Database
-6) Firebase Hosting
-7) Firebase Google Authentication (Full login!)
-8) React flip move
+3) Google Authentication (Email + Password)
+4) Material UI
+5) Flexbox
+6) Firebase's Firestore realtime Database
+7) Firebase Hosting
+8) Firebase Google Authentication (Full login!)
+9) React flip move
 
 
 # Getting Started with Create React App
