@@ -10,6 +10,16 @@
 8) Firebase Google Authentication (Full login!)
 9) React flip move
 
+# Steps to deploy my project using firebase
+
+1) npm install -g firebase-tools
+2) firebase init (hosting > build > y > n)
+3) npm run build
+4) firebase use "project id"
+5) firebase deploy
+6) To rerun the build, repeat step 3 and run step 5 to "firebase deploy --only hosting" (front-end) instead of "firebase deploy" 
+
+
 
 # My personal notes in developing this facebook clone project:
 ## Make use of Widgets.js from facebook clone app
